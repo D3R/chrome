@@ -2,7 +2,7 @@
 
 ## 1.7.3 (2023-03-XX)
 
-* Fixed issue where Chrome 111 and later have different default allowed origins
+* Fixed issue where Chrome 111 and later have different default allowed origins.
 
 
 ## 1.7.2 (2023-02-27)
